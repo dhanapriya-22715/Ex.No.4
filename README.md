@@ -103,7 +103,7 @@ IoT monitoring allows engineers to track machine health in real time, receive al
 
 From an engineer’s perspective, IoT sensors simplify maintenance planning by providing performance data and automated alerts, helping prevent unexpected machine failures.
 
-# Everyday Functioning Prompts
+# 3. Everyday Functioning Prompts
 
 ## Definition
 
@@ -126,7 +126,7 @@ IoT monitoring works like a smartwatch that tracks health conditions. If unusual
 
 
 
-# Universal Prompt Structures / Prompt Refinements
+# 4.Universal Prompt Structures / Prompt Refinements
 
 ## Definition
 
@@ -155,7 +155,7 @@ Universal prompt structures provide a clear template to explain processes step b
 The process begins with installing sensors on equipment. Data is collected and analyzed continuously. If abnormal conditions are detected, maintenance alerts are generated.
 
 
-# Prompt Size Limitations
+# 5. Prompt Size Limitations
 
 ## Definition
 
