@@ -23,7 +23,8 @@ Example Prompt
 
 “Compare Artificial Intelligence and Machine Learning based on features, applications, and advantages.”
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/27cc643d-8755-4c78-8af1-633b162fb853" />
+<img width="880" height="520" alt="image" src="https://github.com/user-attachments/assets/27cc643d-8755-4c78-8af1-633b162fb853" />
+
 
 # 2. Experiential Perspective Prompt
 Explanation
@@ -34,7 +35,8 @@ Example Prompt
 
 “Imagine you are a doctor during a pandemic. Describe your daily challenges and experiences.”
 
-<img width="1400" height="1009" alt="image" src="https://github.com/user-attachments/assets/efd99097-d35d-4cca-a4c3-d74992839187" />
+<img width="800" height="709" alt="image" src="https://github.com/user-attachments/assets/efd99097-d35d-4cca-a4c3-d74992839187" />
+
 # 3. Everyday Functioning Prompts
 Explanation
 
@@ -44,7 +46,8 @@ Example Prompt
 
 “Create a daily study timetable for a college student preparing for exams.”
 
-<img width="1400" height="933" alt="image" src="https://github.com/user-attachments/assets/24e9003a-2ee4-4ca9-aa5f-f251186c71c3" />
+<img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/24e9003a-2ee4-4ca9-aa5f-f251186c71c3" />
+
 # 4. Universal Prompt Structures / Prompt Refinements
 Explanation
 
@@ -54,7 +57,7 @@ Example Prompt
 
 “Act as a software engineer. Explain cloud computing in simple language using bullet points and real-world examples.”
 
-<img width="1400" height="933" alt="image" src="https://github.com/user-attachments/assets/518bc597-cdbd-425e-80aa-5a8836bdd5ab" />
+<img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/518bc597-cdbd-425e-80aa-5a8836bdd5ab" />
 
 
 # Explanation
