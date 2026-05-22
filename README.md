@@ -13,6 +13,49 @@ To write prompts for different prompt engineering types and compare the response
 3. Everyday Functioning Prompts
 4. Universal Prompt Structures / Prompt Refinements
 5. Prompt Size Limitations
+---
+# 1. Comparative Analysis Prompt
+Explanation
+
+A Comparative Analysis Prompt asks the AI to compare two or more concepts, technologies, products, or ideas by identifying similarities, differences, advantages, and disadvantages.
+
+Example Prompt
+
+“Compare Artificial Intelligence and Machine Learning based on features, applications, and advantages.”
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/27cc643d-8755-4c78-8af1-633b162fb853" />
+
+# 2. Experiential Perspective Prompt
+Explanation
+
+An Experiential Perspective Prompt asks the AI to respond from a personal or role-based perspective, simulating real-life experiences or viewpoints.
+
+Example Prompt
+
+“Imagine you are a doctor during a pandemic. Describe your daily challenges and experiences.”
+
+<img width="1400" height="1009" alt="image" src="https://github.com/user-attachments/assets/efd99097-d35d-4cca-a4c3-d74992839187" />
+# 3. Everyday Functioning Prompts
+Explanation
+
+Everyday Functioning Prompts are used for common daily activities and practical assistance such as scheduling, reminders, recommendations, and routine tasks.
+
+Example Prompt
+
+“Create a daily study timetable for a college student preparing for exams.”
+
+<img width="1400" height="933" alt="image" src="https://github.com/user-attachments/assets/24e9003a-2ee4-4ca9-aa5f-f251186c71c3" />
+# 4. Universal Prompt Structures / Prompt Refinements
+Explanation
+
+Universal Prompt Structures organize prompts using clear instructions, context, constraints, and output formats to improve AI response quality.
+
+Example Prompt
+
+“Act as a software engineer. Explain cloud computing in simple language using bullet points and real-world examples.”
+
+<img width="1400" height="933" alt="image" src="https://github.com/user-attachments/assets/518bc597-cdbd-425e-80aa-5a8836bdd5ab" />
+
 
 # Explanation
 
